@@ -1,5 +1,5 @@
 StudentHub podrá notificar:
 
-- cambios de horario;
+- cambios de horarioo;
 - apertura de cursos;
 - cancelaciones.
